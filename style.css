@@ -1,32 +1,32 @@
 body {
- background; #CCCCCC 
+background: #0a0720 
 }
 
 .principal{
-
- 
- 
- 
- p {
-  text-align; center;
+  background:rgb(25, 6, 93);
+  padding:10px;
+}
+p {
+  text-align:center;
 }
 
 em strong {
-  color; #FF0000;
+  color:rgb(43, 192, 226);
 }
 
 h1 {
-  text-align; center;
+  text-align:center;
+  color:rgb(192, 192, 255);
 }
 
 p {
-  font-size; 20px;
+  font-size: 20px;
+  color:rgb(172, 151, 242)
 }
 
- #principal {
-   font-size; 30px
- }
+#principal {
+font-size: 30px
+}
 
- #banner {
-  width= 100%;
- }
+#banner { width:100%;
+}
