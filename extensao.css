@@ -37,6 +37,7 @@ text-decoration: none;
   margin: 0 1.5%;
   padding: 30px 20px;
   box-sizing: border-box;
+  background: #CCCCCC;                                                                        
 }
 
 .produto h2 {
