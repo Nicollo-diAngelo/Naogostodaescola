@@ -37,11 +37,13 @@ text-decoration: none;
   margin: 0 1.5%;
   padding: 30px 20px;
   box-sizing: border-box;
-  background: #CCCCCC;                                                                        
+  background: #CCCCCC;
+  margin: 0 1.5;
+  padding: 30px 20px;
+  box-sizing: border-box;
 }
 
 .produto h2 {
-  font-size: 30px;
   font-weight: bold;
 }
 
